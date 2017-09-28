@@ -3,7 +3,7 @@
 # Config File for INVISIBLE UNIVERSITY flavour of VITALITY bootstrap theme
 #
 #--------------------------------------------------------------
-BaseURL = "https://homeypages.github.io/homey.berlin/"
+BaseURL = "http://homey.berlin/"
 LanguageCode = "de-DE"
 Title = "Homey Pages - Personal Websites"
 Theme = "hugo-university-theme"
